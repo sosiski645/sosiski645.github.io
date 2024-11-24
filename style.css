@@ -1,0 +1,32 @@
+*{
+    background-color:  #3e753b ;
+    h1{
+        color: yellow;
+    }
+    li{
+        color: white;
+    }
+    h2{
+        color: blue;
+    }
+   div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+   }
+   a{
+    color: orangered;
+   }
+   div1{
+    color: white;
+    font-size: 25px;
+   }
+   .container {
+    display: flex;
+    align-items: end; 
+    color: white;
+    gap: 5px; 
+  }
+  img {
+    max-height: 450px; 
+  }
+}
